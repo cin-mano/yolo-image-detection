@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( Image_Detection )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( Image_Detection Image_Detection.cpp )
+target_link_libraries( Image_Detection ${OpenCV_LIBS} )

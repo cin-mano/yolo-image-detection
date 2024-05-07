@@ -1,0 +1,3 @@
+/home/hstpl_lap_131/this/openCv/Yolov5_Image_Object_Detection/CMakeFiles/Image_Detection.dir
+/home/hstpl_lap_131/this/openCv/Yolov5_Image_Object_Detection/CMakeFiles/edit_cache.dir
+/home/hstpl_lap_131/this/openCv/Yolov5_Image_Object_Detection/CMakeFiles/rebuild_cache.dir
